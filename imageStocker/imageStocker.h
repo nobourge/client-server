@@ -1,0 +1,8 @@
+//
+// Created by bourg on 03-01-22.
+//
+
+#ifndef CLIENT_SERVER_IMAGESTOCKER_H
+#define CLIENT_SERVER_IMAGESTOCKER_H
+
+#endif //CLIENT_SERVER_IMAGESTOCKER_H
